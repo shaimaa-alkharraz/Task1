@@ -1,0 +1,21 @@
+﻿@* @model List<Books>
+<table class="table table-striped">
+    <thead>
+        <tr>
+        <tr><th>Id</th></tr>
+    <th>Name</th>
+            <th>Price</th>    
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var books in @Model)
+        {
+            <tr>
+                <td>@books.Id</td>
+                <td>@books.Name</td>
+                <td>@books.Price</td>  
+            </tr>
+        }
+
+    </tbody>
+</table> *@

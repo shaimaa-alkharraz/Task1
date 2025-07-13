@@ -1,0 +1,15 @@
+﻿@model Books 
+<h1>create product</h1>
+<form asp-action="Create">
+<div class="form-group">
+    <lable asp-for="Name">Name</lable>
+    <input asp-for="Name" class="form-cotrol"/>
+    <span asp-validation-for="Name"class="text-daner"></span>
+</div>
+<div class="form-group">
+        <lable asp-for="price ">price </lable>
+        <input asp-for="price " class="form-cotrol" />
+        <span asp-validation-for="price" class="text-daner"></span>
+</div>
+<button type ="submit" class="btn btn-primary">Create</button>
+</form>

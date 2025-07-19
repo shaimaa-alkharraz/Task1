@@ -196,3 +196,4 @@ C:\Users\Dell\Desktop\Task1\Task1\Task1\bin\Debug\net8.0\runtimes\browser\lib\ne
 C:\Users\Dell\Desktop\Task1\Task1\Task1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\Dell\Desktop\Task1\Task1\Task1\obj\Debug\net8.0\Task1.csproj.AssemblyReference.cache
 C:\Users\Dell\Desktop\Task1\Task1\Task1\obj\Debug\net8.0\Task1.csproj.Up2Date
+C:\Users\Dell\Desktop\Task1\Task1\Task1\obj\Debug\net8.0\Task1.sourcelink.json
